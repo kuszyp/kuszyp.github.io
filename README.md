@@ -1,8 +1,10 @@
-# Software Developer / DevOps
+# kuszyp.github.io
+
+## Software Developer / DevOps
 
 [piotr@myapp.pl](mailto:piotr@myapp.pl) | +48 600 352 133 | [linkedin.com/in/piotr-kuszyk](https://www.linkedin.com/in/piotr-kuszyk/)
 
-## Professional Summary
+### Professional Summary
 
 Experienced Software Developer and DevOps Engineer with over 10 years of hands-on experience in a wide range of
 programming languages and technologies, including Java, ColdFusion, PHP, and modern frontend stacks. Demonstrated
@@ -13,11 +15,11 @@ build automation tools like Maven and Gradle. Strong advocate of Agile methodolo
 including CI/CD automation, containerization with Docker and Kubernetes, and centralized logging with the ELK stack
 (Elasticsearch, Logstash, and Kibana).
 
-## Work Experience
+### Work Experience
 
-### Senior Java Engineer (Contract)
+#### Senior Java Engineer (Contract)
 
-#### Asseco Poland S.A.
+##### Asseco Poland S.A.
 
 February 2025 - July 2025
 
@@ -29,9 +31,9 @@ February 2025 - July 2025
 - Use Apache Kafka for asynchronous communication between microservices.
 - Collaborate with cross-functional teams to iteratively deliver and refine business functionalities.
 
-### WSO2 & Security Consultant (Contract)
+#### WSO2 & Security Consultant (Contract)
 
-#### Square One Poland / PwC
+##### Square One Poland / PwC
 
 January 2025 - Present
 
@@ -41,9 +43,9 @@ January 2025 - Present
 - Update and maintain WordPress instances, addresing known security vulnerabilities and ensuring compliance
   with internal and external security standards.
 
-### Software Developer / DevOps (Contract)
+#### Software Developer / DevOps (Contract)
 
-#### O4B
+##### O4B
 
 January 2024 - December 2024
 
@@ -56,9 +58,9 @@ January 2024 - December 2024
 - Writing scripts in Bash and Python to streamline development workflows and automate tasks.
 - Prepare GitLab CI/CD Pipelines to automate deployment processes.
 
-### Senior Developer (Contract)
+#### Senior Developer (Contract)
 
-#### Le Cordon Bleu
+##### Le Cordon Bleu
 
 July 2022 - January 2024
 
@@ -66,9 +68,9 @@ July 2022 - January 2024
 - Designed new functionalities and proposed improvements to the application architecture.
 - Mentored junior developers and shared knowledge on ColdFusion and development best practices.
 
-### Senior Java Software Engineer (Contract)
+#### Senior Java Software Engineer (Contract)
 
-#### Branchspace
+##### Branchspace
 
 June 2023 - December 2023
 
@@ -79,9 +81,9 @@ June 2023 - December 2023
 - Collaborated with a multinational development team to ensure timely delivery of high-quality code.
 - Worked with AWS services to deploy and manage applications, ensuring scalability, and high availability.
 
-### Java Developer (Contract)
+#### Java Developer (Contract)
 
-#### SCALO
+##### SCALO
 
 May 2022 - April 2023
 
@@ -89,9 +91,9 @@ May 2022 - April 2023
 - Integrated services using Kafka, SOAP, and REST APIs to ensure seamless communication and data exchange
   between microservices.
 
-### Java Developer
+#### Java Developer
 
-#### Pointpack
+##### Pointpack
 
 March 2019 - October 2022
 
@@ -100,9 +102,9 @@ March 2019 - October 2022
 - Worked with Apache Camel and RabbitMQ and built an integration engine for external service providers, streamlining
   data exchange and integration processes.
 
-### Tools Consultant
+#### Tools Consultant
 
-#### Capgemini Polska
+##### Capgemini Polska
 
 February 2018 - December 2022
 
@@ -110,9 +112,9 @@ February 2018 - December 2022
   presented as KPIs on dashboards, using PHP and Symfony framework.
 - Developed an integration platform in Java for converting bank messages between multiple formats.
 
-### IT Consultant & ColdFusion Developer (Contract)
+#### IT Consultant & ColdFusion Developer (Contract)
 
-#### Prisma International BV
+##### Prisma International BV
 
 March 2016 - January 2018
 
