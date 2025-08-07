@@ -7,15 +7,30 @@
 ### Professional Summary
 
 Experienced Software Developer and DevOps Engineer with over 10 years of hands-on experience in a wide range of
-programming languages and technologies, including Java, ColdFusion, PHP, and modern frontend stacks. Demonstrated
-success in delivering high-quality solutions for industries such as finance, logistics, healthcare, and e-learning.
+programming languages and technologies, including Java, ColdFusion, PHP, and modern frontend stacks.
+
+Demonstrated success in delivering high-quality solutions for industries such as finance, logistics, healthcare, and e-learning.
 Skilled in integrating complex systems with external services, and transitioning applications from monolithic to
-microservices architecture. Proficient in modern Java frameworks such as Spring Framework and Spring Boot, as well as
+microservices architecture.
+
+Proficient in modern Java frameworks such as Spring Framework and Spring Boot, as well as
 build automation tools like Maven and Gradle. Strong advocate of Agile methodologies and DevOps best practices,
 including CI/CD automation, containerization with Docker and Kubernetes, and centralized logging with the ELK stack
 (Elasticsearch, Logstash, and Kibana).
 
 ### Work Experience
+
+#### WSO2 & Security Consultant (Contract)
+
+##### Square One Poland / PwC
+
+January 2025 - Present
+
+- Support WSO2 infrastructure for PwC, focusing on analuzing system architecture and proposing improvements.
+- Lead the upgrade process of WSO2 Identity Server to the latest stable version, ensuring minimal disruption and
+  alignment with security best practices.
+- Update and maintain WordPress instances, addresing known security vulnerabilities and ensuring compliance
+  with internal and external security standards.
 
 #### Senior Java Engineer (Contract)
 
@@ -30,18 +45,6 @@ February 2025 - July 2025
 - Write unit and integration tests with Groovy and the Spock framework to ensure code quality.
 - Use Apache Kafka for asynchronous communication between microservices.
 - Collaborate with cross-functional teams to iteratively deliver and refine business functionalities.
-
-#### WSO2 & Security Consultant (Contract)
-
-##### Square One Poland / PwC
-
-January 2025 - Present
-
-- Support WSO2 infrastructure for PwC, focusing on analuzing system architecture and proposing improvements.
-- Lead the upgrade process of WSO2 Identity Server to the latest stable version, ensuring minimal disruption and
-  alignment with security best practices.
-- Update and maintain WordPress instances, addresing known security vulnerabilities and ensuring compliance
-  with internal and external security standards.
 
 #### Software Developer / DevOps (Contract)
 
@@ -91,17 +94,6 @@ May 2022 - April 2023
 - Integrated services using Kafka, SOAP, and REST APIs to ensure seamless communication and data exchange
   between microservices.
 
-#### Java Developer
-
-##### Pointpack
-
-March 2019 - October 2022
-
-- Developed and maintained integration applications for courier companies using Spring Framework.
-- Contributed to the transition from a monolithic architecture to microservices using Spring Boot.
-- Worked with Apache Camel and RabbitMQ and built an integration engine for external service providers, streamlining
-  data exchange and integration processes.
-
 #### Tools Consultant
 
 ##### Capgemini Polska
@@ -112,6 +104,25 @@ February 2018 - December 2022
   presented as KPIs on dashboards, using PHP and Symfony framework.
 - Developed an integration platform in Java for converting bank messages between multiple formats.
 
+#### Junior Java Developer
+
+##### Pointpack
+
+March 2019 - October 2022
+
+- Developed and maintained integration applications for courier companies using Spring Framework.
+- Contributed to the transition from a monolithic architecture to microservices using Spring Boot.
+- Worked with Apache Camel and RabbitMQ and built an integration engine for external service providers, streamlining
+  data exchange and integration processes.
+
+#### Support (Contract)
+
+##### Grupa SCANMED
+
+March 2017 - December 2017
+
+B2B agreement. My duties include ongoing maintenance and development of the Comany's web sites, as well as development and integration of the new software.
+
 #### IT Consultant & ColdFusion Developer (Contract)
 
 ##### Prisma International BV
@@ -120,3 +131,13 @@ March 2016 - January 2018
 
 - Developed and maintained software for Dutch Railways using ColdFusion and the fw/1 framework.
 - Maintain a web application for Oxfam Novib Netherlands using ColdFusion and the fw/1 framework.
+
+### Education
+
+#### Master's Degree in Computer Science, Specialization in Software Engineering
+
+2006 - 2012
+
+Adam Mickiewicz University in Poznań, Poland, **The Faculty of Mathematics and Computer Science**
+
+Master's Thesis: _Design Patterns in Web Applications_
