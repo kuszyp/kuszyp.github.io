@@ -24,7 +24,7 @@ including CI/CD automation, containerization with Docker and Kubernetes, and cen
 
 ##### Square One Poland / PwC
 
-January 2025 - Present
+January 2025 - November 2025
 
 - Support WSO2 infrastructure for PwC, focusing on analuzing system architecture and proposing improvements.
 - Lead the upgrade process of WSO2 Identity Server to the latest stable version, ensuring minimal disruption and
