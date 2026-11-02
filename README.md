@@ -20,6 +20,30 @@ including CI/CD automation, containerization with Docker and Kubernetes, and cen
 
 ### Work Experience
 
+#### Senior Software Engineer
+##### Capgemini Polska
+
+Jun 2026 - Current
+
+* Java Development, Grails, Groovy
+* Software Integration
+* Software Architecture
+* Software Development
+* Domain-Driven Design (DDD)
+* Oracle SQL Developer
+* Artificial Intelligence (AI)
+* Microsoft Azure
+
+#### Senior Java Software Engineer (Contract)
+##### MIKRONIKA Sp. z o. o.
+
+December 2025 - September 2026
+
+* Java Development
+* Testing and Test Automation
+* Code Refactoring
+* Continuous Integration and Continuous Delivery (CI/CD)
+
 #### WSO2 & Security Consultant (Contract)
 
 ##### Square One Poland / PwC
